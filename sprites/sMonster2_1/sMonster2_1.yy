@@ -1,102 +1,147 @@
 {
-  "$GMSprite":"v2",
-<<<<<<<< Updated upstream:sprites/sMonster2_1/sMonster2_1.yy
-  "%Name":"sMonster2_1",
-========
-  "%Name":"sMonster2",
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
-  "bboxMode":0,
-  "bbox_bottom":56,
-  "bbox_left":9,
-  "bbox_right":57,
-  "bbox_top":6,
-  "collisionKind":1,
-  "collisionTolerance":0,
-  "DynamicTexturePage":false,
-  "edgeFiltering":false,
-  "For3D":false,
-  "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+  "$GMSprite": "v2",
+  "%Name": "sMonster2_1",
+  "bboxMode": 0,
+  "bbox_bottom": 56,
+  "bbox_left": 9,
+  "bbox_right": 57,
+  "bbox_top": 6,
+  "collisionKind": 1,
+  "collisionTolerance": 0,
+  "DynamicTexturePage": false,
+  "edgeFiltering": false,
+  "For3D": false,
+  "frames": [
+    {
+      "$GMSpriteFrame": "v1",
+      "%Name": "1f73a49e-e861-42c8-9c3b-c37728f01cee",
+      "name": "1f73a49e-e861-42c8-9c3b-c37728f01cee",
+      "resourceType": "GMSpriteFrame",
+      "resourceVersion": "2.0"
+    }
   ],
-  "gridX":0,
-  "gridY":0,
-  "height":64,
-  "HTile":false,
-  "layers":[
-    {"$GMImageLayer":"","%Name":"29f34368-a20d-490d-9ed5-61cbe2b9a2eb","blendMode":0,"displayName":"default","isLocked":false,"name":"29f34368-a20d-490d-9ed5-61cbe2b9a2eb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+  "gridX": 0,
+  "gridY": 0,
+  "height": 64,
+  "HTile": false,
+  "layers": [
+    {
+      "$GMImageLayer": "",
+      "%Name": "29f34368-a20d-490d-9ed5-61cbe2b9a2eb",
+      "blendMode": 0,
+      "displayName": "default",
+      "isLocked": false,
+      "name": "29f34368-a20d-490d-9ed5-61cbe2b9a2eb",
+      "opacity": 100.0,
+      "resourceType": "GMImageLayer",
+      "resourceVersion": "2.0",
+      "visible": true
+    }
   ],
-<<<<<<<< Updated upstream:sprites/sMonster2_1/sMonster2_1.yy
-  "name":"sMonster2_1",
-========
-  "name":"sMonster2",
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
-  "nineSlice":null,
-  "origin":0,
-  "parent":{
-    "name":"Starter Game",
-    "path":"Starter Game.yyp",
+  "name": "sMonster2_1",
+  "nineSlice": null,
+  "origin": 0,
+  "parent": {
+    "name": "Starter Game",
+    "path": "Starter Game.yyp"
   },
-  "preMultiplyAlpha":false,
-  "resourceType":"GMSprite",
-  "resourceVersion":"2.0",
-  "sequence":{
-    "$GMSequence":"v1",
-    "%Name":"sMonster2",
-    "autoRecord":true,
-    "backdropHeight":768,
-    "backdropImageOpacity":0.5,
-    "backdropImagePath":"",
-    "backdropWidth":1366,
-    "backdropXOffset":0.0,
-    "backdropYOffset":0.0,
-    "events":{
-      "$KeyframeStore<MessageEventKeyframe>":"",
-      "Keyframes":[],
-      "resourceType":"KeyframeStore<MessageEventKeyframe>",
-      "resourceVersion":"2.0",
+  "preMultiplyAlpha": false,
+  "resourceType": "GMSprite",
+  "resourceVersion": "2.0",
+  "sequence": {
+    "$GMSequence": "v1",
+    "%Name": "sMonster2",
+    "autoRecord": true,
+    "backdropHeight": 768,
+    "backdropImageOpacity": 0.5,
+    "backdropImagePath": "",
+    "backdropWidth": 1366,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "events": {
+      "$KeyframeStore<MessageEventKeyframe>": "",
+      "Keyframes": [],
+      "resourceType": "KeyframeStore<MessageEventKeyframe>",
+      "resourceVersion": "2.0"
     },
-    "eventStubScript":null,
-    "eventToFunction":{},
-    "length":1.0,
-    "lockOrigin":false,
-    "moments":{
-      "$KeyframeStore<MomentsEventKeyframe>":"",
-      "Keyframes":[],
-      "resourceType":"KeyframeStore<MomentsEventKeyframe>",
-      "resourceVersion":"2.0",
+    "eventStubScript": null,
+    "eventToFunction": {},
+    "length": 1.0,
+    "lockOrigin": false,
+    "moments": {
+      "$KeyframeStore<MomentsEventKeyframe>": "",
+      "Keyframes": [],
+      "resourceType": "KeyframeStore<MomentsEventKeyframe>",
+      "resourceVersion": "2.0"
     },
-    "name":"sMonster2",
-    "playback":1,
-    "playbackSpeed":30.0,
-    "playbackSpeedType":0,
-    "resourceType":"GMSequence",
-    "resourceVersion":"2.0",
-    "showBackdrop":true,
-    "showBackdropImage":false,
-    "timeUnits":1,
-    "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-<<<<<<<< Updated upstream:sprites/sMonster2_1/sMonster2_1.yy
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","path":"sprites/sMonster2_1/sMonster2_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-========
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","path":"sprites/sMonster2/sMonster2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
-              },"Disabled":false,"id":"48b9d124-2664-4e25-859e-539062921292","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-          ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
+    "name": "sMonster2",
+    "playback": 1,
+    "playbackSpeed": 30.0,
+    "playbackSpeedType": 0,
+    "resourceType": "GMSequence",
+    "resourceVersion": "2.0",
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "timeUnits": 1,
+    "tracks": [
+      {
+        "$GMSpriteFramesTrack": "",
+        "builtinName": 0,
+        "events": [],
+        "inheritsTrackColour": true,
+        "interpolation": 1,
+        "isCreationTrack": false,
+        "keyframes": {
+          "$KeyframeStore<SpriteFrameKeyframe>": "",
+          "Keyframes": [
+            {
+              "$Keyframe<SpriteFrameKeyframe>": "",
+              "Channels": {
+                "0": {
+                  "$SpriteFrameKeyframe": "",
+                  "Id": {
+                    "name": "1f73a49e-e861-42c8-9c3b-c37728f01cee",
+                    "path": "sprites/sMonster2_1/sMonster2_1.yy"
+                  },
+                  "resourceType": "SpriteFrameKeyframe",
+                  "resourceVersion": "2.0"
+                }
+              },
+              "Disabled": false,
+              "id": "48b9d124-2664-4e25-859e-539062921292",
+              "IsCreationKey": false,
+              "Key": 0.0,
+              "Length": 1.0,
+              "resourceType": "Keyframe<SpriteFrameKeyframe>",
+              "resourceVersion": "2.0",
+              "Stretch": false
+            }
+          ],
+          "resourceType": "KeyframeStore<SpriteFrameKeyframe>",
+          "resourceVersion": "2.0"
+        },
+        "modifiers": [],
+        "name": "frames",
+        "resourceType": "GMSpriteFramesTrack",
+        "resourceVersion": "2.0",
+        "spriteId": null,
+        "trackColour": 0,
+        "tracks": [],
+        "traits": 0
+      }
     ],
-    "visibleRange":null,
-    "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "visibleRange": null,
+    "volume": 1.0,
+    "xorigin": 0,
+    "yorigin": 0
   },
-  "swatchColours":null,
-  "swfPrecision":0.5,
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+  "swatchColours": null,
+  "swfPrecision": 0.5,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default"
   },
-  "type":0,
-  "VTile":false,
-  "width":64,
+  "type": 0,
+  "VTile": false,
+  "width": 64
 }
