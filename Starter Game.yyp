@@ -22,6 +22,7 @@
     {"id":{"name":"oMonster2","path":"objects/oMonster2/oMonster2.yy",},},
     {"id":{"name":"oPlayer1","path":"objects/oPlayer1/oPlayer1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sMonster1","path":"sprites/sMonster1/sMonster1.yy",},},
     {"id":{"name":"sMonster2_1","path":"sprites/sMonster2_1/sMonster2_1.yy",},},
     {"id":{"name":"sMonster2","path":"sprites/sMonster2/sMonster2.yy",},},
     {"id":{"name":"sPlayer1","path":"sprites/sPlayer1/sPlayer1.yy",},},

@@ -1,20 +1,11 @@
 {
   "$GMSprite":"v2",
-<<<<<<<< Updated upstream:sprites/sMonster1/sMonster1.yy
   "%Name":"sMonster1",
   "bboxMode":0,
   "bbox_bottom":51,
   "bbox_left":7,
   "bbox_right":51,
   "bbox_top":18,
-========
-  "%Name":"sMonster2",
-  "bboxMode":0,
-  "bbox_bottom":56,
-  "bbox_left":9,
-  "bbox_right":57,
-  "bbox_top":6,
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -30,11 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"29f34368-a20d-490d-9ed5-61cbe2b9a2eb","blendMode":0,"displayName":"default","isLocked":false,"name":"29f34368-a20d-490d-9ed5-61cbe2b9a2eb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-<<<<<<<< Updated upstream:sprites/sMonster1/sMonster1.yy
   "name":"sMonster1",
-========
-  "name":"sMonster2",
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -46,11 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-<<<<<<<< Updated upstream:sprites/sMonster1/sMonster1.yy
     "%Name":"sMonster1",
-========
-    "%Name":"sMonster2",
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -74,11 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-<<<<<<<< Updated upstream:sprites/sMonster1/sMonster1.yy
     "name":"sMonster1",
-========
-    "name":"sMonster2",
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -90,11 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-<<<<<<<< Updated upstream:sprites/sMonster1/sMonster1.yy
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","path":"sprites/sMonster1/sMonster1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-========
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f73a49e-e861-42c8-9c3b-c37728f01cee","path":"sprites/sMonster2/sMonster2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
->>>>>>>> Stashed changes:sprites/sMonster2/sMonster2.yy
               },"Disabled":false,"id":"48b9d124-2664-4e25-859e-539062921292","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
