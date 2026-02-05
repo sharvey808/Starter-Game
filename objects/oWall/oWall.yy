@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oMonster2",
+  "%Name":"oWall",
   "eventList":[],
   "managed":true,
-  "name":"oMonster2",
+  "name":"oWall",
   "overriddenProperties":[],
   "parent":{
     "name":"Starter Game",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMonsterP",
-    "path":"sprites/sMonsterP/sMonsterP.yy",
+    "name":"sWall",
+    "path":"sprites/sWall/sWall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
